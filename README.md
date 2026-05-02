@@ -1,13 +1,89 @@
-<h2> <p align="center">
-  <b style="font-size:35px;">XPR Group Corporation™</b>
-</p>
-<p align="center">
-  <b>Exotic • Passionate • Revolutionize</b>
-</p> </h2>
+## 
+<h2> 
+  <p align="center"> 
+    XPR Group Corporation™ </b> 
+  </p> 
+  <p align="center"> 
+    <b>Exotic • Passionate • Revolutionize</b> 
+  </p> 
+</h2>
 
-<p align="center">
-  Building digital products, systems, and creative technology.
-</p>
+## 👥 Who are we?
+This GitHub represents **XPR Group Corp.™** & Primarily operated by **XPR Studio™**  
+our main development branch focused on digital products and online systems.
+
+Think of this as our **main public workspace, experiment playground and portfolio**,   
+where ideas are turned into real, usable, and scalable products.  
+🚧 We are currently a growing startup, actively building and expanding.
+
+## 🧠 What is “XPR”?
+XPR is a multidisciplinary creative group focused on **innovation, design, and future-facing products** with one goal:  
+> Create things that stand out and actually make an impact.
+
+## ✨ Our Core Values & Philosophy
+| Letter | Full Meaning | Description |
+|--------|--------|------------|
+| **X** | **Exotic** Thinking | Creativity and unique ideas. |
+| **P** | **Passionate** Execution | Dedicated work and processes. |
+| **R** | **Revolutionize** Creations | Innovative and impactful outcomes. |
+
+## 🎯 What we focus on
+- 💻 Digital products, Software & applications  
+- 🎮 Games & interactive experiences  
+- 🧰 Plugins, tools, frameworks & systems  
+- 🎨 Creative media & visual design  
+- 🚀 And much more ideas!!  
+
+
+## 🧩 What’s here
+- 🧰 Dev tools & utilities  
+- 🎮 Game projects  
+- ⚙️ Internal systems  
+- 🧪 Experiments that may or may not become something big  
+
+## ⚡ Current vibe
+- 🔭 Building new systems and ideas  
+- 🌱 Constantly learning and improving  
+- ⚡ Turning random ideas into real projects  
+
+## 🤝 Collaboration
+
+Open to working with developers, creators, and people who like building cool things.  
+If you’re serious about creating, we’ll probably get along.  
+
+## 🌌 The Future
+We have planned numerous projects and forward-thinking ideas for the future.
+
+While we currently lack the workforce, time, and resources to execute everything,  
+we are confident in our long-term growth.  
+
+With time, the right people, and continuous progress,  
+we aim to expand XPR’s vision on a global scale.
+
+
+
+## 📫 Contacts & Socials
+
+🌐 Socials
+| Platform | Link |
+|----------|------|
+| 🌐 About Us | https://xprgroup.carrd.co/ |
+| 💬 XPR Studio Discord | https://discord.gg/YqbkxwRKgW |
+| 📺 YouTube | https://www.youtube.com/@XPR_Studio |
+| 📸 Instagram | https://www.instagram.com/__.xprstudio/?hl=en |
+
+📩 Business Contact (Recommended)
+| Method | Details |
+|--------|--------|
+| 📧 Email | xprgroupcorporation@gmail.com |
+| 💬 Discord | ac4_xpr_s |
+
+##
+> Some projects start as experiments.  
+> Some experiments turn into systems.  
+> Some systems change everything.  
+**Welcome to XPR.**
+##
 
 <!--
 **xprgroupcorporation/xprgroupcorporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
