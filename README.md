@@ -9,8 +9,10 @@
 </h2>
 
 ## 👥 Who are we?
-This GitHub represents **XPR Group Corporation™** & Operated by **XPR Studio™** our main branch focused on online & digital products.  
-Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into real products.  
+This GitHub represents **XPR Group Corporation™** and is operated by **XPR Studio™**,  
+our main branch focused on digital products and online systems.  
+Think of this as our **main public workspace, experiment playground and portfolio**,   
+where ideas are turned into real, usable, and scalable products.   
 
 🚧 We are currently a growing startup, actively building and expanding.  
 
@@ -28,13 +30,13 @@ Our core values & Philosophy
 | **P** | **Passionate** Execution | Dedicated work and processes. |
 | **R** | **Revolutionize** Creations | Innovative and impactful outcomes. |
 
-## 🎯 What we focus on & What’s here
-- 💻 Digital products, Software & applications  
+## 🎯 What we focus on & What’s here?
+- 💻 Digital products, software & applications  
 - 🎮 Games & interactive experiences  
 - 🧰 Plugins, tools, frameworks, systems & utilities  
 - 🎨 Creative media & visual design
 - 🧪 Experiments that may or may not become something big   
-- 🚀 And much more ideas!!  
+- 🔥 Future concepts and evolving ideas!!  
 
 ## ⚡ Current vibe
 - 🔭 Building new systems and ideas  
