@@ -12,8 +12,13 @@
 This GitHub represents **XPR Group Corp.™** & Operated by **XPR Studio™** our main branch focused on digital products & online systems.  
 Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into real products.  
 
-🚧 We are currently a growing startup, actively building and expanding. With one goal:  
-*Create things that stand out and actually make an impact.*
+🚧 We are currently a growing startup, actively building and expanding.  
+
+> Some projects start as experiments.  
+> Some experiments turn into systems.  
+> Some systems change everything.  
+**Welcome to the XPR.**
+
 
 ## ✨ What is “XPR”?
 Our core values & Philosophy
@@ -37,20 +42,13 @@ Our core values & Philosophy
 - ⚡ Turning random ideas into real projects  
 
 ## 🤝 Collaboration
-Open to working with developers, creators, and people who like building cool things. If you’re serious about creating, we’ll probably get along.  
+Open to working with developers, creators, and people who like building cool things.  
+If you’re serious about creating, we’ll probably get along.  
 
 ## 🌌 The Future
 We have planned numerous projects and forward-thinking ideas for the future.
 While we currently lack the workforce, time, and resources to execute everything, we are confident in our long-term growth.  
 With time, the right people, and continuous progress, we aim to **expand XPR’s vision on a global scale.**
-
-##
-> Some projects start as experiments.  
-> Some experiments turn into systems.  
-> Some systems change everything.  
-**Welcome to XPR.**
-##
-
 
 ## 📫 Contacts & Socials
 
