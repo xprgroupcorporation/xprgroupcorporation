@@ -10,7 +10,7 @@
 
 ## 👥 Who are we?
 This GitHub represents **XPR Group Corp.™** & Operated by **XPR Studio™** our main branch focused on digital products & online systems.  
-Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into usable, and scalable products.  
+Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into real products.  
 
 🚧 We are currently a growing startup, actively building and expanding. With one goal:  
 > Create things that stand out and actually make an impact.
