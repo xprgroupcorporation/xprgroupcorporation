@@ -13,7 +13,7 @@ This GitHub represents **XPR Group Corp.™** & Operated by **XPR Studio™** ou
 Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into real products.  
 
 🚧 We are currently a growing startup, actively building and expanding. With one goal:  
-> Create things that stand out and actually make an impact.
+*Create things that stand out and actually make an impact.*
 
 ## ✨ What is “XPR”?
 Our core values & Philosophy
