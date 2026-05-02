@@ -9,7 +9,7 @@
 </h2>
 
 ## 👥 Who are we?
-This GitHub represents **XPR Group Corp.™** & Operated by **XPR Studio™** our main branch focused on digital products & online systems.  
+This GitHub represents **XPR Group Corporation™** & Operated by **XPR Studio™** our main branch focused on digital products & online systems.  
 Think of this as our **main public workspace, experiment playground and portfolio**, where ideas are turned into real products.  
 
 🚧 We are currently a growing startup, actively building and expanding.  
