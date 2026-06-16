@@ -42,7 +42,7 @@ Our core values & Philosophy
 - 🔭 Building new systems and ideas  
 - 🌱 Constantly learning and improving  
 - ⚡ Turning random ideas into real projects  
-Note: Self starred on current focused project ptoject ✨
+### Note: Self starred on current focused project ✨
 
 ## 🤝 Collaboration
 Open to working with developers, creators, and people who like building cool things.  
