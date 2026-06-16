@@ -41,7 +41,8 @@ Our core values & Philosophy
 ## ⚡ Current vibe
 - 🔭 Building new systems and ideas  
 - 🌱 Constantly learning and improving  
-- ⚡ Turning random ideas into real projects  
+- ⚡ Turning random ideas into real projects
+Note: Self starred on current focused project ptoject ✨
 
 ## 🤝 Collaboration
 Open to working with developers, creators, and people who like building cool things.  
